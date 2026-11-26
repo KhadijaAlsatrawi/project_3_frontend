@@ -8,9 +8,6 @@
 
 
 ## User Stories
-User Stories
-
-
 1. As a user (Event Creator), I want to be able to create new events, so I can organize business gatherings and activities.
 2. As a user (Event Creator), I want to be able to view all events, so I can browse the events available on the platform.
 3. As a user (Event Creator), I want to be able to view event details, so I can access information about a specific event.
@@ -36,7 +33,7 @@ User Stories
 23. As a user (Normal User), I want to be able to drop from events I joined .
 
 ## Database Design
-
+![ERD](README_media/Project3_ERD_light.drawio.png)
 
 ## Routes
 
